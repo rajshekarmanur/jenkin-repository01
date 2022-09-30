@@ -8,6 +8,7 @@ public class addnomineedetailsTest {
 	public void create()
 	{
 		System.out.println("----created----somke test executed");
+		System.out.println("-----jenkins----");
 	}
     @Test(groups = "smoke")
     public void update() 
